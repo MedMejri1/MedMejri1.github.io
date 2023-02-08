@@ -330,6 +330,10 @@ input{
 
 }
 
+.text-color{
+    color: var(--skin-color);
+}
+
 .home__subtitle{
     font-size: var(--h3-font-size);
     font-weight: var(--font-medium);
